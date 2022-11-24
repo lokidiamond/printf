@@ -9,7 +9,8 @@ This project is aimed at solidifying different concepts we've learnt over the pa
 Collaborators
 This project is a two-man team of team members:
 
-loki diamond github.com/lokidiamond
+loki diamond https://github.com/lokidiamond
+
 Olusankanmi Alabi
 Things we learnt during this task
 Using git in a team setting.
